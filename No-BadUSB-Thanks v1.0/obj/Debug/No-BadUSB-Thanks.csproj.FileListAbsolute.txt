@@ -1,0 +1,7 @@
+C:\Users\MBA\source\repos\No-BadUSB-Thanks\No-BadUSB-Thanks\bin\Debug\No-BadUSB-Thanks.exe.config
+C:\Users\MBA\source\repos\No-BadUSB-Thanks\No-BadUSB-Thanks\bin\Debug\No-BadUSB-Thanks.exe
+C:\Users\MBA\source\repos\No-BadUSB-Thanks\No-BadUSB-Thanks\bin\Debug\No-BadUSB-Thanks.pdb
+C:\Users\MBA\source\repos\No-BadUSB-Thanks\No-BadUSB-Thanks\obj\Debug\No-BadUSB-Thanks.csproj.AssemblyReference.cache
+C:\Users\MBA\source\repos\No-BadUSB-Thanks\No-BadUSB-Thanks\obj\Debug\No-BadUSB-Thanks.csproj.CoreCompileInputs.cache
+C:\Users\MBA\source\repos\No-BadUSB-Thanks\No-BadUSB-Thanks\obj\Debug\No-BadUSB-Thanks.exe
+C:\Users\MBA\source\repos\No-BadUSB-Thanks\No-BadUSB-Thanks\obj\Debug\No-BadUSB-Thanks.pdb
