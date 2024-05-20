@@ -14,11 +14,14 @@ Flipper zero
 
 
 # How it works?
+Monitor devices and detect BadUSB HID
+
+# Version's history
 V1
 ~~Utilizes several techniques, including scanning files with specific extensions such as .dd and .bin and deleting them if possible. It also checks the USB device name to ensure it's not malware. Afterward, it freezes all keyboards and mice connected to the device, followed by a system restart.~~
 
 V2
-No need to check for specific extensions, USB device name, freeze all keyboards and mice, or restart the system.
+*No need to check for specific extensions, USB device name, freeze all keyboards and mice, or restart the system.
 
 ## Demo
 
