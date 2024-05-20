@@ -22,17 +22,24 @@ No need to check for specific extensions, USB device name, freeze all keyboards 
 
 ## Demo
 
-- Without No BadUSB thanks
+- Without No BadUSB thanks V1
 
 
 https://github.com/8yr/No-BadUSB-thanks/assets/63230850/66bd2267-549b-4c0d-ba4a-7bb9a0f2ecb8
 
 
 
-- With No BadUSB thanks
+- With No BadUSB thanks V1
 
 
 https://github.com/8yr/No-BadUSB-thanks/assets/63230850/310c5074-f2ab-46b9-9f10-4f313e775652
+
+
+- Without No BadUSB thanks V2
+
+
+
+- With No BadUSB thanks V2
 
 
 
