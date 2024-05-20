@@ -1,5 +1,5 @@
-# No BadUSB thanks
-A project to defend against BadUSB attacks like (USB-Raspberry Pi, USB-Rubber Ducky)
+# No BadUSB thanks V2
+A project to defend against BadUSB attacks like (USB-Raspberry Pi, USB-Rubber Ducky and both flipper-zero USB and Bluetooth)
 
 ## Pictures of BadUSB 
 Raspberry Pi
@@ -9,9 +9,16 @@ Raspberry Pi
 Rubber Ducky
 ![61RBVTA-7WL _AC_UF350,350_QL80_](https://github.com/8yr/No-BadUSB-thanks/assets/63230850/4dad38f0-008b-46b6-bc2f-51742c04363c)
 
-# How it works?
+Flipper zero
+![2024-05-20_173311](https://github.com/8yr/No-BadUSB-thanks/assets/63230850/007a0f0e-89c3-4487-abf5-78368d4a6967)
 
-Utilizes several techniques, including scanning files with specific extensions such as .dd and .bin and deleting them if possible. It also checks the USB device name to ensure it's not malware. Afterward, it freezes all keyboards and mice connected to the device, followed by a system restart.
+
+# How it works?
+V1
+~~Utilizes several techniques, including scanning files with specific extensions such as .dd and .bin and deleting them if possible. It also checks the USB device name to ensure it's not malware. Afterward, it freezes all keyboards and mice connected to the device, followed by a system restart.~~
+
+V2
+No need to check for specific extensions, USB device name, freeze all keyboards and mice, or restart the system.
 
 ## Demo
 
@@ -35,9 +42,9 @@ Install it from the Releases section and run it with administrator privileges.
 
 ## Problems
 
-- It freezes all keyboards and mice connected to the device instead of specifically targeting the BadUSB
+~~- It freezes all keyboards and mice connected to the device instead of specifically targeting the BadUSB~~ Fixed with V2
 
-- Mandatory system restart.
+~~- Mandatory system restart.~~ Fixed with V2
 
 ## Reference
 
