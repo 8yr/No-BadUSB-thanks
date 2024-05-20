@@ -1,7 +1,0 @@
-C:\Users\hmody\source\repos\No-BadUSB-thanks-v2\No-BadUSB-thanks-v2\bin\Debug\No-BadUSB-thanks-v2.exe.config
-C:\Users\hmody\source\repos\No-BadUSB-thanks-v2\No-BadUSB-thanks-v2\bin\Debug\No-BadUSB-thanks-v2.exe
-C:\Users\hmody\source\repos\No-BadUSB-thanks-v2\No-BadUSB-thanks-v2\bin\Debug\No-BadUSB-thanks-v2.pdb
-C:\Users\hmody\source\repos\No-BadUSB-thanks-v2\No-BadUSB-thanks-v2\obj\Debug\No-BadUSB-thanks-v2.csproj.AssemblyReference.cache
-C:\Users\hmody\source\repos\No-BadUSB-thanks-v2\No-BadUSB-thanks-v2\obj\Debug\No-BadUSB-thanks-v2.csproj.CoreCompileInputs.cache
-C:\Users\hmody\source\repos\No-BadUSB-thanks-v2\No-BadUSB-thanks-v2\obj\Debug\No-BadUSB-thanks-v2.exe
-C:\Users\hmody\source\repos\No-BadUSB-thanks-v2\No-BadUSB-thanks-v2\obj\Debug\No-BadUSB-thanks-v2.pdb
