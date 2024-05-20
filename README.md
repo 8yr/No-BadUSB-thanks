@@ -37,10 +37,12 @@ https://github.com/8yr/No-BadUSB-thanks/assets/63230850/310c5074-f2ab-46b9-9f10-
 
 - Without No BadUSB thanks V2
 
+https://github.com/8yr/No-BadUSB-thanks/assets/63230850/9dde9dc4-533b-486f-a6ce-bc7241983535
 
 
 - With No BadUSB thanks V2
 
+https://github.com/8yr/No-BadUSB-thanks/assets/63230850/9038e66e-707e-4d7e-a521-f99e648319bb
 
 
 ## Installation
