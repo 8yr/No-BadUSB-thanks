@@ -1,6 +1,5 @@
 # No BadUSB thanks V2
-A project to defend against BadUSB attacks like (USB-Raspberry Pi, USB-Rubber Ducky and both flipper-zero USB and Bluetooth)
-
+A project aimed at safeguarding against BadUSB attacks, including those originating from USB-Raspberry Pi, USB Rubber Ducky, and both Flipper Zero USB and Bluetooth.
 ## Pictures of BadUSB 
 Raspberry Pi
 ![images](https://github.com/8yr/No-BadUSB-thanks/assets/63230850/f1dd1936-9353-4eb8-b74b-afc43dd541fb)
